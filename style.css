@@ -1,0 +1,143 @@
+body{
+    background-image: url(https://ninjasfiles.s3.amazonaws.com/asset_0000000000003226_1714596295_pics1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+}
+header{
+    color: white;
+    padding: 0px;
+    margin-bottom: 1px;
+    background-color:  #3498db; 
+    position: fixed;
+    width: 100%;
+    z-index: 4;
+} 
+h1{
+    padding: 0px;
+    margin : 0px;
+}     
+ main,p{
+    margin-top: 0px;
+    color: white;
+    font-weight: 900;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    line-height: 45px;
+}
+#rahul{
+    border: 5px solid white;
+    padding: 1px;
+    margin: 100px;
+    width:240px;
+    height: 160px;
+}
+#bharat{
+    border: 5px solid white;
+    padding: 1px;
+    margin: 100px;
+    width:250px;
+    height: 160px;
+}
+#dillip{
+    border: 5px solid white;
+    padding: 1px;
+    margin: 100px;
+    width: 259px;
+    height: 160px;
+}
+.coach{
+    display: inline-block;
+    margin-top: 70px;
+    
+}
+#virat{
+    border-radius: 10px;
+    padding: 1px;
+    margin: 1px;
+    width:290px;
+    height: 230px;
+    display: block;
+    background-position: center;
+    font-size: larger;
+    
+}
+#rohit{
+    border-radius: 10px;
+    padding: 1px;
+    margin: 1px;
+    width: 290px;
+    height: 230px;
+    display: block;
+}
+#jadeja{
+    border-radius: 10px;
+    padding: 1px;
+    margin: 1px;
+    width:290px;
+    height: 230px;
+    display: block;
+}
+.cricket{
+     border: 0px white;
+     border-radius: 10px;
+     width:19%;
+     height: 29%;
+     background-position: center;
+     overflow-y: scroll;
+    overflow-x: hidden; 
+     position: absolute;
+     left : 41%;
+    bottom: 4%;
+    padding: 0px;
+    color: rgb(103, 92, 92);
+  
+}
+table{
+    border-collapse: collapse;
+    width: 90%;
+    height: 80%;
+    margin-top: 120px;
+    background-color:white;
+    margin-left: 85px;
+}
+th,td{
+    border: 1px solid #3498db; 
+    padding: 12px; 
+    text-align: left;
+    color: #3498db;
+}
+th{
+    background-color: #142d4c;
+    color: #fff;
+  }
+  footer{
+    margin-top: 80px;
+    background-color: rgb(78, 11, 194);
+    line-height: 0.7cm;
+  }
+section{
+    position: fixed;
+    font-size: 35px;
+    left: 35%;
+    z-index: -1;
+    top: 50px;
+} 
+.background{
+    background-color: white;
+    height: 270px;
+    width: 390px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.background p {
+    color: black;
+    font-size: larger;
+}
